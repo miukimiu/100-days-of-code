@@ -30,5 +30,27 @@
 
 **Today's Progress**: Progress on spotify-hiphop-ionic. Created a pipe for sort by followers.
 
-**Thoughts:** Basicly copied the pipe from [http://www.fueltravel.com/blog](http://www.fueltravel.com/blog/migrating-from-angular-1-to-2-part-1-pipes/) and modifed in order to make it work with childs.
+**Thoughts:** Basically copied the pipe from [http://www.fueltravel.com/blog](http://www.fueltravel.com/blog/migrating-from-angular-1-to-2-part-1-pipes/) and modifed in order to make it work with childs.
+**Link to work:** [Spotify Hip-Hop Ionic](https://github.com/miukimiu/spotify-hiphop-ionic)
+
+### Day 4: August 9, 2016
+
+**Today's Progress**: Fixed issue on spotify-hiphop-ionic. App was not working on safari and ios. The issue was due to native angular 2 number pipe.
+
+**Link to work:** [Spotify Hip-Hop Ionic](https://github.com/miukimiu/spotify-hiphop-ionic)
+
+
+### Day 5: August 10, 2016
+
+**Today's Progress**: Created a loading animation with angular 1.5 and tweenmax.
+
+**Thoughts:** I'm thinking in change the clock animation to a directive.
+
+**Link to work:** [Clock animation](http://codepen.io/miukimiu/pen/pbQYjo?editors=0010)
+
+
+### Day 6: August 11, 2016
+
+**Today's Progress**: I kept working on spotify-hiphop-ionic. Changed component names. Called the same service  "hiphopTugaService" to the popularity component. 
+
 **Link to work:** [Spotify Hip-Hop Ionic](https://github.com/miukimiu/spotify-hiphop-ionic)
