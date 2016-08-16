@@ -51,6 +51,13 @@
 
 ### Day 6: August 11, 2016
 
-**Today's Progress**: I kept working on spotify-hiphop-ionic. Changed component names. Called the same service  "hiphopTugaService" to the popularity component. 
+**Today's Progress**: I kept working on spotify-hiphop-ionic. Changed component names. Called the same service  "hiphopTugaService" to the popularity component.
 
 **Link to work:** [Spotify Hip-Hop Ionic](https://github.com/miukimiu/spotify-hiphop-ionic)
+
+
+### Day 7: August 16, 2016
+
+**Thoughts:** I've started this project some time ago. I never finished so I decided to improve it and put it for free.
+
+**Today's Progress**: Worked on a angularjs admin template. Created a directive (component) for numbers.
